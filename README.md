@@ -8,4 +8,6 @@ AI Internship tasks at yuva intern
 5) Deployment and Monitoring of an AI Service 
 6) AI Ethics, Bias Analysis, and Fairness Assessment
 
+https://github.com/arasu1301/Yuva_AI_Intern_Tasks
+
 
