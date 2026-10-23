@@ -1,11 +1,11 @@
 # Yuva_AI_Intern_Tasks
 AI Internship tasks at yuva intern
 
-AI-Project-Planning-and-Documentation
-Data Preprocessing and Feature Engineering
-Building and Tuning an AI Model
-Explainable AI and Model Interpretability
-Deployment and Monitoring of an AI Service
-AI Ethics, Bias Analysis, and Fairness Assessment
+1) AI-Project-Planning-and-Documentation 
+2) Data Preprocessing and Feature Engineering 
+3) Building and Tuning an AI Model 
+4) Explainable AI and Model Interpretability 
+5) Deployment and Monitoring of an AI Service 
+6) AI Ethics, Bias Analysis, and Fairness Assessment
 
 
